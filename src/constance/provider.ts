@@ -1,0 +1,4 @@
+export enum Provider {
+  EMAIL_TRANSPORT = 'EMAIL_TRANSPORT',
+  IMAP_CONFIG = 'IMAP_CONFIG',
+}
